@@ -1,0 +1,17 @@
+//task 1 
+
+complete 5 programs
+
+//task 2
+
+start writing scripts for system administration
+
+//task 3
+
+start automating tasks using powershell
+
+
+
+//final task
+
+learn the pros and cons and app'n of powershell
